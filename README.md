@@ -20,4 +20,4 @@ After downloading [IntelliJ](https://www.jetbrains.com/idea/), open the folder c
 ## Useful Websites: ##
 * [W3 Schools Java](https://www.w3schools.com/java/)
 * [Learn Java in 14 minutes](https://www.youtube.com/watch?v=RRubcjpTkks&t=559s)
-* [Java Classes](https://www.w3schools.com/java/java_classes.asp)
+* [Java Booliean Expressions](https://www.w3schools.com/java/java_booleans.asp)
