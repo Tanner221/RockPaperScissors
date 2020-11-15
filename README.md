@@ -13,9 +13,9 @@ After downloading [IntelliJ](https://www.jetbrains.com/idea/), open the folder c
 
 ## Screenshots: ##
 
-![Add a contact](AddContact.png)
-![Display Contacts](displayContact.png)
-![Search Contacts](searchContacts.png)
+![Start instructions and Loss](StartScreen&Loss.png)
+![It's a tie](itsATie.png)
+![Finally a Win](win.png)
 
 ## Useful Websites: ##
 * [W3 Schools Java](https://www.w3schools.com/java/)
